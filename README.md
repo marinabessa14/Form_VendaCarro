@@ -1,6 +1,6 @@
 Formulário de Cadastro de Veículos
 
-Este projeto é um formulário web completo e responsivo para o cadastro de veículos à venda. Ele foi projetado para facilitar o anúncio de carros, permitindo que os usuários insiram informações detalhadas, tornando o anúncio mais atrativo e completo.
+Este projeto é um formulário web completo para o cadastro de veículos à venda. Ele foi projetado para facilitar o anúncio de carros, permitindo que os usuários insiram informações detalhadas, tornando o anúncio mais atrativo e completo.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Principais Características
